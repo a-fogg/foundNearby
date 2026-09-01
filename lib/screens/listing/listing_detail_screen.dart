@@ -6,6 +6,7 @@ class ListingDetailScreen extends StatelessWidget {
 
   const ListingDetailScreen({Key? key, required this.listingId}) : super(key: key);
 
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
